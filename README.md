@@ -1,5 +1,6 @@
 # Windows XP Simulator - Source Code & Architecture Repository
 
+[![Support & Donate](https://img.shields.io/badge/Support%20Project-support.xpsimulator.com-FF5722?style=for-the-badge&logoColor=white)](https://support.xpsimulator.com)
 [![Website](https://img.shields.io/badge/Website-xpsimulator.com-0055EA?style=for-the-badge&logoColor=white)](https://xpsimulator.com)
 [![Extension Site](https://img.shields.io/badge/Extension%20Portal-extension.xpsimulator.com-8B5CF6?style=for-the-badge&logoColor=white)](https://extension.xpsimulator.com)
 [![Documentation](https://img.shields.io/badge/Docs-docs.xpsimulator.com-38BDF8?style=for-the-badge&logoColor=white)](https://docs.xpsimulator.com)
@@ -24,6 +25,18 @@ During this cycle, active production builds are compiled and deployed continuous
 - **Extension Manual & Developer Portal**: [https://extension.xpsimulator.com](https://extension.xpsimulator.com)
 - **Official Documentation Suite**: [https://docs.xpsimulator.com](https://docs.xpsimulator.com)
 - **Companion Extension Repository**: [https://github.com/elmehdi-khalda/xpsimulator-newtab](https://github.com/elmehdi-khalda/xpsimulator-newtab)
+
+---
+
+## Support & Contributions
+
+Encourage us to keep enhancing the experience and sharpening it to the edge. Your support directly funds server infrastructure, continuous simulator updates, and new classic software additions.
+
+<div align="center">
+  <a href="https://support.xpsimulator.com">
+    <img src="https://img.shields.io/badge/Support%20XP%20Simulator-Donate%20%26%20Request%20Features-FF5722?style=for-the-badge&logoColor=white" alt="Support XP Simulator" />
+  </a>
+</div>
 
 ---
 
