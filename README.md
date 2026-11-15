@@ -19,12 +19,150 @@ During this cycle, active production builds are compiled and deployed continuous
 
 ---
 
-## Ecosystem Portals & Documentation
+## High-Definition Video Tutorials Suite
 
-- **Live Simulation**: [https://xpsimulator.com](https://xpsimulator.com)
-- **Extension Manual & Developer Portal**: [https://extension.xpsimulator.com](https://extension.xpsimulator.com)
-- **Official Documentation Suite**: [https://docs.xpsimulator.com](https://docs.xpsimulator.com)
-- **Companion Extension Repository**: [https://github.com/elmehdi-khalda/xpsimulator-newtab](https://github.com/elmehdi-khalda/xpsimulator-newtab)
+Step-by-step visual demonstrations of simulation capabilities and 3rd-party integration pipelines:
+
+### 1. How to Import Files into the Simulation
+Drag and drop local files, pictures, music, and archives directly into the virtual Windows XP filesystem.
+
+<div align="center">
+  <video src="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/drag-and-drop.mp4" controls="controls" width="100%" style="max-width: 850px; border-radius: 6px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);"></video>
+</div>
+
+<p align="center">
+  <a href="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/drag-and-drop.mp4">Direct Link: Watch / Download drag-and-drop.mp4 (Full HD)</a>
+</p>
+
+---
+
+### 2. How to Add Web Embedded Apps
+Embed live web applications, dashboards, and online games directly inside authentic Luna window frames.
+
+<div align="center">
+  <video src="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/add-web-embedded-app.mp4" controls="controls" width="100%" style="max-width: 850px; border-radius: 6px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);"></video>
+</div>
+
+<p align="center">
+  <a href="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/add-web-embedded-app.mp4">Direct Link: Watch / Download add-web-embedded-app.mp4 (Full HD)</a>
+</p>
+
+---
+
+### 3. How to Add HTML Apps & Widgets (with Clock UI)
+Deploy autonomous HTML5 widgets with desktop docking, transparency, and background execution.
+
+<div align="center">
+  <video src="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/how-to-install-clock-ui.mp4" controls="controls" width="100%" style="max-width: 850px; border-radius: 6px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);"></video>
+</div>
+
+<p align="center">
+  <a href="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/how-to-install-clock-ui.mp4">Direct Link: Watch / Download how-to-install-clock-ui.mp4 (Full HD)</a>
+</p>
+
+---
+
+### 4. How to Add Link Apps and Shortcuts
+Create desktop icons and Start Menu shortcuts linking directly to modern cloud destinations.
+
+<div align="center">
+  <video src="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/add-link-app.mp4" controls="controls" width="100%" style="max-width: 850px; border-radius: 6px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);"></video>
+</div>
+
+<p align="center">
+  <a href="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/add-link-app.mp4">Direct Link: Watch / Download add-link-app.mp4 (Full HD)</a>
+</p>
+
+---
+
+### 5. How to Uninstall an Application
+Cleanly uninstall registered applications, desktop shortcuts, tray icons, and startup hooks.
+
+<div align="center">
+  <video src="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/how-to-uninstall-app.mp4" controls="controls" width="100%" style="max-width: 850px; border-radius: 6px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);"></video>
+</div>
+
+<p align="center">
+  <a href="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/how-to-uninstall-app.mp4">Direct Link: Watch / Download how-to-uninstall-app.mp4 (Full HD)</a>
+</p>
+
+---
+
+## Interactive Application Demo: Bouncy Ball
+
+Experience real-time physics simulation running across the Windows XP desktop environment. Balls collide with windows, the Google search bar, taskbar, and each other.
+
+<div align="center">
+  <video src="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/bouncy-ball.mp4" controls="controls" width="100%" style="max-width: 850px; border-radius: 6px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);"></video>
+</div>
+
+<p align="center">
+  <a href="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/bouncy-ball.mp4">Direct Link: Watch / Download bouncy-ball.mp4 (Full HD)</a>
+</p>
+
+<div align="center">
+  <a href="https://docs.xpsimulator.com/#app-examples">
+    <img src="https://img.shields.io/badge/Explore%20More%20App%20Examples-docs.xpsimulator.com-0055EA?style=for-the-badge&logoColor=white" alt="Explore More App Examples" />
+  </a>
+</div>
+
+---
+
+## Website & Extension Showcase Gallery
+
+### 1. Classic Pinball Game & Windows Media Player
+![1. Classic Pinball Game & Windows Media Player](https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/showcase/bliss-and-icons.png)
+
+*Authentic 3D Pinball Space Cadet with classic audio synthesis and Windows Media Player with dynamic Headspace skin.*
+
+---
+
+### 2. Wallpapers & Headspace Skins
+![2. Wallpapers & Headspace Skins](https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/showcase/nostalgic-wallpaper.png)
+
+*Dynamic bliss wallpapers, customized system themes, and real-time Headspace skin transformations.*
+
+---
+
+### 3. Classic Google Search
+![3. Classic Google Search](https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/showcase/ie6-google-web.png)
+
+*Vintage Google Search interface running inside Internet Explorer with authentic period styling.*
+
+---
+
+### 4. The Classic Google Search Index
+![4. The Classic Google Search Index](https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/showcase/ie6-multitab-browsing.png)
+
+*Full-fidelity retro Google search index and live web directory navigation.*
+
+---
+
+### 5. Classic YouTube Experience
+![5. Classic YouTube Experience](https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/showcase/wmp-classic-skin.png)
+
+*Authentic Internet Explorer 6 window running YouTube retro video playback with native controls and sound.*
+
+---
+
+### 6. Multiple Apps in the Start Menu
+![6. Multiple Apps in the Start Menu](https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/showcase/wmp-canvas-skin.png)
+
+*Multi-application productivity suite accessible from the authentic two-column Windows XP Start Menu.*
+
+---
+
+### 7. Lock Screen & Password Protection
+![7. Lock Screen & Password Protection](https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/showcase/app-installer-suite.png)
+
+*Authentic Windows XP welcome and lock screen with multi-user profiles and password validation.*
+
+---
+
+### 8. Sticky Notes
+![8. Sticky Notes](https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/showcase/customization-control-panel.png)
+
+*Desktop sticky notes and workspace productivity tools with automatic state persistence.*
 
 ---
 
@@ -40,8 +178,17 @@ Encourage us to keep enhancing the experience and sharpening it to the edge. You
 
 ---
 
+## Ecosystem Portals & Documentation
+
+- **Live Simulation**: [https://xpsimulator.com](https://xpsimulator.com)
+- **Extension Manual & Developer Portal**: [https://extension.xpsimulator.com](https://extension.xpsimulator.com)
+- **Official Documentation Suite**: [https://docs.xpsimulator.com](https://docs.xpsimulator.com)
+- **Companion Extension Repository**: [https://github.com/elmehdi-khalda/xpsimulator-newtab](https://github.com/elmehdi-khalda/xpsimulator-newtab)
+
+---
+
 ## Author & Maintainer
 
-Created and maintained by **El Mehdi Khalda**.
+Created and maintained by **EL MEHDI KHALDA**.
 
 All source materials, runtime assets, and virtual subsystems are developed under clean-room engineering practices and applicable fair use standards.
