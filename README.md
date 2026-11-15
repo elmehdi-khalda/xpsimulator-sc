@@ -19,72 +19,42 @@ During this cycle, active production builds are compiled and deployed continuous
 
 ---
 
-## High-Definition Video Tutorials Suite
+## Video Tutorials & Guides
 
-Step-by-step visual demonstrations of simulation capabilities and 3rd-party integration pipelines:
+Click any tutorial thumbnail below to watch the high-definition video demonstration:
 
 ### 1. How to Import Files into the Simulation
-Drag and drop local files, pictures, music, and archives directly into the virtual Windows XP filesystem.
+*Drag and drop local files, pictures, music, and archives directly into the virtual Windows XP filesystem.*
 
-<div align="center">
-  <video src="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/drag-and-drop.mp4" controls="controls" width="100%" style="max-width: 850px; border-radius: 6px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);"></video>
-</div>
-
-<p align="center">
-  <a href="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/drag-and-drop.mp4">Direct Link: Watch / Download drag-and-drop.mp4 (Full HD)</a>
-</p>
+[![Watch Tutorial: How to Import Files into the Simulation](assets/thumbnails/drag-and-drop.png)](https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/drag-and-drop.mp4)
 
 ---
 
 ### 2. How to Add Web Embedded Apps
-Embed live web applications, dashboards, and online games directly inside authentic Luna window frames.
+*Embed live web applications, dashboards, and online games directly inside authentic Luna window frames.*
 
-<div align="center">
-  <video src="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/add-web-embedded-app.mp4" controls="controls" width="100%" style="max-width: 850px; border-radius: 6px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);"></video>
-</div>
-
-<p align="center">
-  <a href="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/add-web-embedded-app.mp4">Direct Link: Watch / Download add-web-embedded-app.mp4 (Full HD)</a>
-</p>
+[![Watch Tutorial: How to Add Web Embedded Apps](assets/thumbnails/add-web-embedded-app.png)](https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/add-web-embedded-app.mp4)
 
 ---
 
 ### 3. How to Add HTML Apps & Widgets (with Clock UI)
-Deploy autonomous HTML5 widgets with desktop docking, transparency, and background execution.
+*Deploy autonomous HTML5 widgets with desktop docking, transparency, and background execution.*
 
-<div align="center">
-  <video src="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/how-to-install-clock-ui.mp4" controls="controls" width="100%" style="max-width: 850px; border-radius: 6px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);"></video>
-</div>
-
-<p align="center">
-  <a href="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/how-to-install-clock-ui.mp4">Direct Link: Watch / Download how-to-install-clock-ui.mp4 (Full HD)</a>
-</p>
+[![Watch Tutorial: How to Add HTML Apps and Widgets](assets/thumbnails/how-to-install-clock-ui.png)](https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/how-to-install-clock-ui.mp4)
 
 ---
 
 ### 4. How to Add Link Apps and Shortcuts
-Create desktop icons and Start Menu shortcuts linking directly to modern cloud destinations.
+*Create desktop icons and Start Menu shortcuts linking directly to modern cloud destinations.*
 
-<div align="center">
-  <video src="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/add-link-app.mp4" controls="controls" width="100%" style="max-width: 850px; border-radius: 6px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);"></video>
-</div>
-
-<p align="center">
-  <a href="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/add-link-app.mp4">Direct Link: Watch / Download add-link-app.mp4 (Full HD)</a>
-</p>
+[![Watch Tutorial: How to Add Link Apps and Shortcuts](assets/thumbnails/add-link-app.png)](https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/add-link-app.mp4)
 
 ---
 
 ### 5. How to Uninstall an Application
-Cleanly uninstall registered applications, desktop shortcuts, tray icons, and startup hooks.
+*Cleanly uninstall registered applications, desktop shortcuts, tray icons, and startup hooks.*
 
-<div align="center">
-  <video src="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/how-to-uninstall-app.mp4" controls="controls" width="100%" style="max-width: 850px; border-radius: 6px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);"></video>
-</div>
-
-<p align="center">
-  <a href="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/how-to-uninstall-app.mp4">Direct Link: Watch / Download how-to-uninstall-app.mp4 (Full HD)</a>
-</p>
+[![Watch Tutorial: How to Uninstall an Application](assets/thumbnails/how-to-uninstall-app.png)](https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/how-to-uninstall-app.mp4)
 
 ---
 
@@ -92,13 +62,7 @@ Cleanly uninstall registered applications, desktop shortcuts, tray icons, and st
 
 Experience real-time physics simulation running across the Windows XP desktop environment. Balls collide with windows, the Google search bar, taskbar, and each other.
 
-<div align="center">
-  <video src="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/bouncy-ball.mp4" controls="controls" width="100%" style="max-width: 850px; border-radius: 6px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);"></video>
-</div>
-
-<p align="center">
-  <a href="https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/bouncy-ball.mp4">Direct Link: Watch / Download bouncy-ball.mp4 (Full HD)</a>
-</p>
+[![Watch Demo: Bouncy Ball Application](assets/thumbnails/bouncy-ball.png)](https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/videos/bouncy-ball.mp4)
 
 <div align="center">
   <a href="https://docs.xpsimulator.com/#app-examples">
