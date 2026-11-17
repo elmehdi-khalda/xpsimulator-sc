@@ -103,7 +103,7 @@ Experience real-time physics simulation running across the Windows XP desktop en
 ---
 
 ### 5. Classic YouTube Experience
-![5. Classic YouTube Experience](https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/showcase/wmp-classic-skin.png)
+![5. Classic YouTube Experience](https://r2-cors-proxy.elmehdikhalda.workers.dev/elmehdikhalda/showcase/rickroll.png)
 
 *Authentic Internet Explorer 6 window running YouTube retro video playback with native controls and sound.*
 
